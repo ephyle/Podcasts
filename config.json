@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Phyle"
+  },
+  "text": {
+    "more": "Transforming the journalism done on scientific research into linked data could even further lessens the distance between academic researchers and and public audiences. The semantic web allows for endless possibilities for search and retrieval. As it develops, information professionals should explore multiple ways of embedding the semantic lab into our information environment. Podcasts are an emerging way for the general public to consume scientific discourse. Yet this doesn’t leave the user with anyway of access the primary work, let alone access the rich world of adjacent research on the semantic web. Creating a world of informed citizens means creating systems of discovery that lead users to the best available research. This project hopes to demonstrate the potential benefits of connecting popular science communication to the semantic web.",
+    "intro": "This gephi visualization of Radiolab Presents: G aims to provide a tangible product that demonstrates the power of structured data as an access tool for science and humanities research.",
+    "title": "G"
+  },
+  "legend": {
+    "edgeLabel": "Relation",
+    "colorLabel": "Type",
+    "nodeLabel": "Entity"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
