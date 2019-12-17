@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://schema.org/"
+   xmlns:ns2="http://purl.org/vocab/relationship/"
+   xmlns:ns3="http://vocab.getty.edu/ontology#"
+   xmlns:ns4="http://dbpedia.org/ontology/"
+   xmlns:ns5="http://gephi.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q4803124">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q4803124"/>
+    <foaf:name>Asa Hillard</foaf:name>
+    <ns1:member rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns5:label>Asa Hillard</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746633"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2856080">
+    <dc:identifier rdf:resource="https://www.wikidata.org/wiki/Q2856080"/>
+    <dc:isPartOf rdf:resource=""/>
+    <ns5:label>Radiolab</ns5:label>
+    <foaf:name>Radiolab</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioProgram"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q70746611">
+    <ns5:label>Radiolab Presents: G</ns5:label>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Project"/>
+    <dc:isPartOf rdf:resource=""/>
+    <dc:creator rdf:resource="https://www.wikidata.org/wiki/Q2856080"/>
+    <foaf:name>Radiolab Presents: G</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orcid.org/0000-0002-7451-6304">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <ns5:label>Brandon Gamble</ns5:label>
+    <ns2:employedBy rdf:resource="https://www2.oakwood.edu/"/>
+    <dc:identifier rdf:resource="https://orcid.org/0000-0002-7451-6304"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns1:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <foaf:name>Brandon Gamble</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q207478">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746621"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns5:label>Alfred Binet</ns5:label>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q207478"/>
+    <foaf:name>Alfred Binet</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q170277">
+    <dc:identifier rdf:resource="https://www.wikidata.org/wiki/Q170277"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>intelligence quotient</foaf:name>
+    <ns5:label>intelligence quotient</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orcid.org/0000-0002-4387-3640">
+    <foaf:name>Craig L. Frisby</foaf:name>
+    <dc:identifier rdf:resource="https://orcid.org/0000-0002-4387-3640"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns5:label>Craig L. Frisby</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746635"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://openjurist.org/793/f2d/969/larry-lucille-p-v-riles-p">
+    <dc:identifier rdf:resource="https://openjurist.org/793/f2d/969/larry-lucille-p-v-riles-p"/>
+    <foaf:name>793 F. 2d 969 - Larry Lucille P v. Riles P</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746612"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/LegalDecision"/>
+    <ns5:label>793 F. 2d 969 - Larry Lucille P v. Riles P</ns5:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q969139">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q969139"/>
+    <foaf:name>ThÃ©odore Simon </foaf:name>
+    <ns3:ulan1307_assistant_of rdf:resource="https://www.wikidata.org/entity/Q207478"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns5:label>ThÃ©odore Simon </ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746622"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q378697">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <ns5:label>Mental age</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746623"/>
+    <foaf:name>Mental age</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n50001703">
+    <foaf:name>Harold Dent</foaf:name>
+    <ns1:member rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <dc:identifier rdf:resource="http://id.loc.gov/rwo/agents/n50001703"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746630"/>
+    <ns5:label>Harold Dent</ns5:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1753797">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q1753797"/>
+    <foaf:name>general intelligence factor</foaf:name>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <ns5:label>general intelligence factor</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746628"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orcid.org/0000-0001-8251-7334">
+    <dc:identifier rdf:resource="https://orcid.org/0000-0001-8251-7334"/>
+    <ns5:label>Siddhartha Mukherjee</ns5:label>
+    <ns4:occupation rdf:resource="https://www.wikidata.org/wiki/Q16062369"/>
+    <foaf:name>Siddhartha Mukherjee</foaf:name>
+    <ns1:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746618"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q8023186">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q8023186"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns5:label>Wilson Riles</ns5:label>
+    <foaf:name>Wilson Riles</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1572850">
+    <rdf:type rdf:resource="http://courseware.rkbexplorer.com/ontologies/courseware#Assessment-Method"/>
+    <ns5:label>Wechsler Intelligence Scale for Children</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746634"/>
+    <foaf:name>Wechsler Intelligence Scale for Children</foaf:name>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q1572850"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1051792">
+    <rdf:type rdf:resource="http://courseware.rkbexplorer.com/ontologies/courseware#Assessment-Method"/>
+    <foaf:name>IQ test</foaf:name>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q1051792"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746613"/>
+    <ns5:label>IQ test</ns5:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.kalw.org/people/lee-romney">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:identifier rdf:resource="https://www.kalw.org/people/lee-romney"/>
+    <foaf:name>Lee Romney</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746614"/>
+    <ns5:label>Lee Romney</ns5:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q7894104">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q7894104"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:name>Universal access to education</foaf:name>
+    <ns5:label>Universal access to education</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746620"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q4809651">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <ns5:label>Association of Black Psycologists</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746616"/>
+    <foaf:name>Association of Black Psycologists</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q55878361">
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q55878361"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <ns5:label>The theory of intelligence and its measurement</ns5:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746626"/>
+    <foaf:name>The theory of intelligence and its measurement</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://davidrobson.me/">
+    <dc:identifier rdf:resource="https://davidrobson.me/"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746619"/>
+    <ns5:label>David Robson</ns5:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>David Robson</foaf:name>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q17016778"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://postnewsgroup.com/category/stockton/">
+    <foaf:name>Gerald West</foaf:name>
+    <ns1:member rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:identifier rdf:resource="https://postnewsgroup.com/category/stockton/"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746615"/>
+    <ns5:label>Gerald West</ns5:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q356611">
+    <foaf:name>Charles Spearman</foaf:name>
+    <dc:identifier rdf:resource="https://www.wikidata.org/entity/Q356611"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746625"/>
+    <ns5:label>Charles Spearman</ns5:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+</rdf:RDF>

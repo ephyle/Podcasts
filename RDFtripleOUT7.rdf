@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://dbpedia.org/ontology/"
+   xmlns:ns10="https://privatealpha.com/ontology/ibis/1#"
+   xmlns:ns11="http://purl.org/net/opmv/ns#"
+   xmlns:ns12="https://w3id.org/saref#"
+   xmlns:ns13="http://sparql.cwrc.ca/ontologies/cwrc#"
+   xmlns:ns14="http://purl.org/ontology/mo/"
+   xmlns:ns15="http://comicmeta.org/cbo/"
+   xmlns:ns2="http://purl.org/vocab/relationship/"
+   xmlns:ns3="http://vocab.getty.edu/ontology#"
+   xmlns:ns4="http://gephi.org/"
+   xmlns:ns5="http://purl.org/dc/terms/"
+   xmlns:ns6="http://sparql.cwrc.ca/ontology/cwrc.html#"
+   xmlns:ns7="http://schema.org/"
+   xmlns:ns8="http://lod.nl.go.kr/ontology/"
+   xmlns:ns9="http://www.aktors.org/ontology/portal#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q70746611">
+    <dc:creator rdf:resource="https://www.wikidata.org/entity/Q2856080"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Project"/>
+    <dc:isPartOf rdf:resource=""/>
+    <ns4:label>Radiolab Presents: G</ns4:label>
+    <foaf:name>Radiolab Presents: G</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q16063546">
+    <foaf:name>historian of science</foaf:name>
+    <ns4:label>historian of science</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <rdf:type rdf:resource="http://www.linkedmodel.org/schema/vaem#Discipline&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q460173">
+    <foaf:name>United States Environmental Protection Agency</foaf:name>
+    <ns4:label>United States Environmental Protection Agency</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/GovernmentAgency"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.1056/NEJM197903293001301">
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q5735148"/>
+    <ns8:publishedIn rdf:resource="https://www.wikidata.org/entity/Q582728"/>
+    <foaf:name>Deficits in Psychologic and Classroom Performance of Children with Elevated Dentine Lead Levels</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns4:label>Deficits in Psychologic and Classroom Performance of Children with Elevated Dentine Lead Levels</ns4:label>
+    <rdf:type rdf:resource="http://schema.org/ScholarlyArticle"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orcid.org/0000-0002-7451-6304">
+    <ns4:label>Brandon Gamble</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <foaf:name>Brandon Gamble</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns7:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q192864">
+    <ns4:label>Science</ns4:label>
+    <ns15:reprintedIn rdf:resource="https://www.wikidata.org/entity/Q192864"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <foaf:name>Science</foaf:name>
+    <rdf:type rdf:resource="http://www.eurocris.org/ontologies/cerif/1.3#Publication"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q4809651">
+    <ns4:label>Association of Black Psycologists</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <foaf:name>Association of Black Psycologists</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q2748395">
+    <rdf:type rdf:resource="http://www.telegraphis.net/ontology/measurement/measurement#Measurement"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns12:measuresProperty rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <foaf:name>Cattellâ€“Hornâ€“Carroll theory</foaf:name>
+    <ns4:label>Cattellâ€“Hornâ€“Carroll theory</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q41688">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <foaf:name>Hendrik Lorentz</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:label>Hendrik Lorentz</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q444025">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Peter Galison</foaf:name>
+    <ns4:label>Peter Galison</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q16063545"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q7009265">
+    <foaf:name>New Jersey Monthly</foaf:name>
+    <ns14:published rdf:resource="https://www.nj.com/inside-jersey/2013/03/the_secret_life_of_einsteins_brain.html"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine"/>
+    <ns4:label>New Jersey Monthly</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q2623471">
+    <ns4:label>Alan S. Kaufman</ns4:label>
+    <foaf:name>Alan S. Kaufman</foaf:name>
+    <ns7:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q17054846"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q16980703">
+    <ns4:label>Joel Schwartz</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q460173"/>
+    <foaf:name>Joel Schwartz</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q983450">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <foaf:name>Siddhartha Mukherjee</foaf:name>
+    <ns4:label>Siddhartha Mukherjee</ns4:label>
+    <dc:creator rdf:resource="https://www.wikidata.org/entity/Q27536589"/>
+    <ns7:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/wiki/Q16062369"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q8023186">
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q78761820"/>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q40348"/>
+    <foaf:name>Wilson Riles</foaf:name>
+    <ns4:label>Wilson Riles</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.1002/cne.901230110">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns5:subject rdf:resource="https://www.wikidata.org/entity/Q43054"/>
+    <rdf:type rdf:resource="http://schema.org/ScholarlyArticle"/>
+    <dc:creator rdf:resource="https://www.wikidata.org/entity/Q16875920"/>
+    <foaf:name>The effects of an enriched environment on the histology of the rat cerebral cortex</foaf:name>
+    <ns4:label>The effects of an enriched environment on the histology of the rat cerebral cortex</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q969139">
+    <ns3:ulan1307_assistant_of rdf:resource="https://www.wikidata.org/entity/Q207478"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>ThÃ©odore Simon </foaf:name>
+    <ns4:label>ThÃ©odore Simon </ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q451248">
+    <dc:creator rdf:resource="https://www.wikidata.org/entity/Q1572850"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:label>David Wechsler</ns4:label>
+    <ns3:ulan1331_worked_with rdf:resource="https://www.wikidata.org/entity/Q2623471"/>
+    <foaf:name>David Wechsler</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1572850">
+    <ns12:measuresProperty rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <foaf:name>Wechsler Intelligence Scale for Children</foaf:name>
+    <ns4:label>Wechsler Intelligence Scale for Children</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns10:opposed-by rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q78761820"/>
+    <rdf:type rdf:resource="http://www.telegraphis.net/ontology/measurement/measurement#Measurement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q378697">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q207478"/>
+    <foaf:name>Mental age</foaf:name>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q969139"/>
+    <ns4:label>Mental age</ns4:label>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n50001703">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns7:member rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <ns4:label>Harold Dent</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Harold Dent</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q16630756">
+    <ns4:label>racial bias</ns4:label>
+    <foaf:name>racial bias</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <rdf:type rdf:resource="https://w3id.org/skgo/modsci#SocialPhenomenon"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q77327209">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioProgram"/>
+    <dc:isPartOf rdf:resource=""/>
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <ns4:label>Relative Genius</ns4:label>
+    <foaf:name>Relative Genius</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q77321340">
+    <ns4:label>Problem Space</ns4:label>
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <dc:isPartOf rdf:resource=""/>
+    <foaf:name>Problem Space</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioProgram"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1869196">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <foaf:name>Thomas Stoltz Harvey</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:label>Thomas Stoltz Harvey</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q17054846">
+    <ns4:label>Pychological Corporation in New York City</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321331"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <foaf:name>Pychological Corporation in New York City</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q43054">
+    <ns4:label>neuron</ns4:label>
+    <foaf:name>neuron</foaf:name>
+    <rdf:type rdf:resource="http://purl.org/biotop/biotop.owl#Cell"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q64010764">
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q245247"/>
+    <ns4:label>Stuart Richie</ns4:label>
+    <foaf:name>Stuart Richie</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns7:contributor rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <dc:creator rdf:resource="https://www.goodreads.com/book/show/25356335-intelligence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q207478">
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q212980"/>
+    <ns4:label>Alfred Binet</ns4:label>
+    <foaf:name>Alfred Binet</foaf:name>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q209842"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q929788">
+    <ns4:label>Steven Levy</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q520154"/>
+    <foaf:name>Steven Levy</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q7009265"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q110315">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns4:label>lead poisoning</ns4:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Disease"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q5735148"/>
+    <foaf:name>lead poisoning</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q16875920">
+    <ns2:employedBy rdf:resource="https://www.wikidata.org/entity/Q168756"/>
+    <foaf:name>Marian Diamond</foaf:name>
+    <ns4:label>Marian Diamond</ns4:label>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q6337803"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q11455">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <ns4:label>special relativity</ns4:label>
+    <foaf:name>special relativity</foaf:name>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q81082"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q41688"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q78761820">
+    <foaf:name>793 F. 2d 969 - Larry Lucille P v. Riles P</foaf:name>
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/LegalDecision"/>
+    <ns4:label>793 F. 2d 969 - Larry Lucille P v. Riles P</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns5:subject rdf:resource="https://www.wikidata.org/entity/Q16630756"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q37160">
+    <ns4:label>David Hume</ns4:label>
+    <ns1:influenced rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q4964182"/>
+    <foaf:name>David Hume</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q55878361">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:name>The theory of intelligence and its measurement</foaf:name>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q356611"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns4:label>The theory of intelligence and its measurement</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.1016/S0140-6736(98)10327-6">
+    <ns7:contributor rdf:resource="https://www.wikidata.org/entity/Q1869196"/>
+    <rdf:type rdf:resource="http://schema.org/ScholarlyArticle"/>
+    <ns4:label>The exceptional brain of Albert Einstein</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <foaf:name>The exceptional brain of Albert Einstein</foaf:name>
+    <ns5:subject rdf:resource="https://www.wikidata.org/entity/Q2464312"/>
+    <ns5:subject rdf:resource="https://www.wikidata.org/entity/Q1256980"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q154494">
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q7320"/>
+    <foaf:name>Action T4</foaf:name>
+    <rdf:type rdf:resource="https://www.wikidata.org/entity/Q41397"/>
+    <ns1:precursor rdf:resource="https://www.wikidata.org/entity/Q2763"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns11:used rdf:resource="https://www.wikidata.org/wiki/Q170277"/>
+    <ns4:label>Action T4</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q11942">
+    <ns4:label>ETH Zurich</ns4:label>
+    <rdf:type rdf:resource="http://lod.nl.go.kr/ontology/University"/>
+    <foaf:name>ETH Zurich</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q3296680&#10;">
+    <ns12:measuresProperty rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://www.telegraphis.net/ontology/measurement/measurement#Measurement"/>
+    <foaf:name>Draw-A-Person Test</foaf:name>
+    <ns4:label>Draw-A-Person Test</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q76346">
+    <ns4:label>Mileva MariÄ‡</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns9:studies-at rdf:resource="https://www.wikidata.org/entity/Q11942"/>
+    <ns1:spouse rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns1:influenced rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <foaf:name>Mileva MariÄ‡</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://psychology.wikia.org/wiki/Columbia_Mental_Maturity_Scale">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://www.telegraphis.net/ontology/measurement/measurement#Measurement"/>
+    <ns12:measuresProperty rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <ns4:label>Columbia Mental Maturity Scale</ns4:label>
+    <foaf:name>Columbia Mental Maturity Scale</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q582728">
+    <foaf:name>New England Journal of Medicine</foaf:name>
+    <rdf:type rdf:resource="http://www.eurocris.org/ontologies/cerif/1.3#Publication"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <ns4:label>New England Journal of Medicine</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q2856080">
+    <ns4:label>Radiolab</ns4:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioProgram"/>
+    <foaf:name>Radiolab</foaf:name>
+    <dc:isPartOf rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q60815">
+    <ns4:label>Brian Greene</ns4:label>
+    <foaf:name>Brian Greene</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q937"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1051792">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <foaf:name>IQ test</foaf:name>
+    <ns12:measuresProperty rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <rdf:type rdf:resource="http://www.telegraphis.net/ontology/measurement/measurement#Measurement"/>
+    <ns4:label>IQ test</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q356611">
+    <ns4:label>Charles Spearman</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns1:ideology rdf:resource="https://www.wikidata.org/entity/Q170480"/>
+    <foaf:name>Charles Spearman</foaf:name>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q212980"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q19856984">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q16063546"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q67583"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns4:label>Jimena Canales </ns4:label>
+    <foaf:name>Jimena Canales </foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q170277">
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q378697"/>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q969139"/>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q207478"/>
+    <ns4:label>intelligence quotient</ns4:label>
+    <foaf:name>intelligence quotient</foaf:name>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2763">
+    <foaf:name>The Holocaust</foaf:name>
+    <ns4:label>The Holocaust</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <rdf:type rdf:resource="https://www.wikidata.org/entity/Q41397"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q5735148">
+    <foaf:name>Herbert L. Needleman</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77321330"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:label>Herbert L. Needleman</ns4:label>
+    <ns13:studiedBy rdf:resource=""/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orcid.org/0000-0002-4387-3640">
+    <foaf:name>Craig L. Frisby</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q16630756"/>
+    <ns4:label>Craig L. Frisby</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q78761820"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q2464312">
+    <ns4:label>Albert Einstein's brain</ns4:label>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q60665706"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q16875920"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q22915124"/>
+    <ns13:studiedBy rdf:resource="https://www.wikidata.org/entity/Q1869196"/>
+    <foaf:name>Albert Einstein's brain</foaf:name>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/OBI_0002516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q67583">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns1:influenced rdf:resource="https://www.wikidata.org/entity/Q937"/>
+    <ns4:label>Aaron Bernstein</ns4:label>
+    <foaf:name>Aaron Bernstein</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.1016/0014-4886(85)90123-2">
+    <dc:creator rdf:resource="https://www.wikidata.org/entity/Q16875920"/>
+    <ns4:label>On the brain of a scientist: Albert Einstein</ns4:label>
+    <foaf:name>On the brain of a scientist: Albert Einstein</foaf:name>
+    <rdf:type rdf:resource="http://schema.org/ScholarlyArticle"/>
+    <ns5:subject rdf:resource="https://www.wikidata.org/entity/Q2464312"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q7442523">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Sebastian Seung</foaf:name>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q43054"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns4:label>Sebastian Seung</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q60665706">
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <foaf:name>Britt Anderson</foaf:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:label>Britt Anderson</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q77320710">
+    <foaf:name>Miseducation of Larry P</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RadioProgram"/>
+    <ns5:isPartOf rdf:resource="https://www.wikidata.org/entity/Q70746611"/>
+    <dc:isPartOf rdf:resource=""/>
+    <ns4:label>Miseducation of Larry P</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q937">
+    <ns4:label>Albert Einstein</ns4:label>
+    <ns9:studies-at rdf:resource="https://www.wikidata.org/entity/Q11942"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Albert Einstein</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1753797">
+    <ns4:label>general intelligence factor</ns4:label>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns3:aat2325_created_by rdf:resource="https://www.wikidata.org/entity/Q356611"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <foaf:name>general intelligence factor</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q1256980">
+    <foaf:name>lateral sulcus</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <rdf:type rdf:resource="http://www.ontotext.com/proton/protonext#BodyPart"/>
+    <ns4:label>lateral sulcus</ns4:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q22915124">
+    <ns4:label>Sandra Witelson</ns4:label>
+    <foaf:name>Sandra Witelson</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q81082">
+    <ns4:label>Henri PoincarÃ©</ns4:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Henri PoincarÃ©</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q14121007">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Carolyn Abraham</foaf:name>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/entity/Q77327182"/>
+    <ns4:label>Carolyn Abraham</ns4:label>
+    <ns1:occupation rdf:resource="https://www.wikidata.org/entity/Q17433421"/>
+    <ns6:studies rdf:resource="https://www.wikidata.org/entity/Q1869196"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/entity/Q4803124">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dc:isPartOf rdf:resource="https://www.wikidata.org/wiki/Q77320731"/>
+    <ns7:member rdf:resource="https://www.wikidata.org/entity/Q4809651"/>
+    <ns4:label>Asa Hillard</ns4:label>
+    <foaf:name>Asa Hillard</foaf:name>
+  </rdf:Description>
+</rdf:RDF>
